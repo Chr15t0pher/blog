@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "some one's blog",
+  "main": "index.js",
+  "author": "Xuanyu Shen",
+  "license": "MIT"
+}
