@@ -7,3 +7,4 @@
 6. [React Event](https://github.com/Chr15t0pher/blog/issues/7) —— react事件系统
 7. [VSCode 配置](https://github.com/Chr15t0pher/blog/issues/8) —— Vscode配置
 8. [Typescript tips](https://github.com/Chr15t0pher/blog/issues/9) —— Typescript
+9. [Shell](https://github.com/Chr15t0pher/blog/issues/10) —— Shell
