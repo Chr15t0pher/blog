@@ -1,4 +1,7 @@
 # someone's blog
+## 2019.1
+[AokUI](https://github.com/Chr15t0pher/blog/issues/11) —— 组件库开发
+## 2018
 1. [Understanding React](https://github.com/Chr15t0pher/blog/issues/1) —— 尝试理解react
 2. [Understanding Mobx](https://github.com/Chr15t0pher/blog/issues/2) —— 尝试理解mobx
 3. [Using Rxjs](https://github.com/Chr15t0pher/blog/issues/4) —— 尝试使用Rxjs
@@ -8,3 +11,4 @@
 7. [VSCode 配置](https://github.com/Chr15t0pher/blog/issues/8) —— Vscode配置
 8. [Typescript tips](https://github.com/Chr15t0pher/blog/issues/9) —— Typescript
 9. [Shell](https://github.com/Chr15t0pher/blog/issues/10) —— Shell
+
