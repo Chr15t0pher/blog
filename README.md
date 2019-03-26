@@ -1,6 +1,7 @@
 # someone's blog
-## 2019.1
+## 2019.3
 [Hooks](https://github.com/Chr15t0pher/blog/issues/12) —— React Hooks  
+## 2019.1 
 [AokUI](https://github.com/Chr15t0pher/blog/issues/11) —— 组件库开发  
 ## 2018
 [Understanding React](https://github.com/Chr15t0pher/blog/issues/1) —— 尝试理解react  
